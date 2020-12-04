@@ -1,0 +1,4 @@
+De: EnUs
+Para: PtBr
+Mensagem: Hello guys
+Tradução: Olá pessoal
